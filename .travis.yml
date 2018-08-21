@@ -9,7 +9,6 @@ stages:
   - deploy
   - migrate
 
-
 if: tag IS blank
 
 jobs:
